@@ -1,25 +1,25 @@
 # 👋 Hi, I'm Greatness Akeredolu  
 **Junior Software Developer & IT Professional**  
 Sheffield, United Kingdom  
-📧 [Your Email] | 📄 [Link to CV]
+📧 greatnessakeredolu@gmail.com 
 
 ---
 
 ## 🔭 About Me
-I’m a self-taught software developer with hands-on experience building real systems from scratch.  
+I’m a junior software developer with hands-on experience building real systems from scratch.  
 I specialise in Python, JavaScript, full-stack web applications, local AI tools, and technical problem-solving.
 
-I design, build, test, deploy, and debug software independently — and I’m always learning.
+I design, build, test, deploy, and debug software collaboratively and independently — and I’m always learning.
 
 ---
 
 ## 💻 Skills
 
 **Languages:**  
-Python · JavaScript · SQL · HTML · CSS  
+Python · JavaScript · Typescript · SQL · HTML · CSS  
 
 **Tools & Technologies:**  
-VS Code · Git · GitHub · Supabase · GPT4All · LLaMA.cpp · Tkinter  
+VS Code · Git · GitHub · Supabase · Vercel · Firebase · GPT4All · LLaMA.cpp · Tkinter  
 
 **Concepts:**  
 REST APIs · Authentication · Local LLM Integration · GUI Development · Debugging · Accessibility · Deployment
@@ -32,7 +32,7 @@ REST APIs · Authentication · Local LLM Integration · GUI Development · Debug
 Full-stack platform that generates quizzes from uploaded documents, tracks user scores, and supports voice interaction.  
 **Tech:** Python · JS · Supabase · AI parsing logic
 
-Live demo / repo: *add project link*
+Live demo / repo: https://gamifai-sigma.vercel.app/
 
 ---
 
